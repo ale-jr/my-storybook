@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "storybook": "start-storybook -p 6006 ",
-    "build-storybook": "build-storybook -c .storybook -o .dist"
+    "build-storybook": "build-storybook -c .storybook -o build"
   },
   "keywords": [],
   "author": "",
