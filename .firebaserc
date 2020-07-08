@@ -1,5 +1,5 @@
 {
   "projects": {
-    "production": "alejr-my-storybook",
+    "default": "alejr-my-storybook",
   }
 }
